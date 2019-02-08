@@ -64,7 +64,8 @@ dataid,readdir,priority
 ```
 
 #### 2. Build
-* ```
+* Please run make command
+```
 $ make server //when you build the server
 $ make client //when you build the client
 ```
