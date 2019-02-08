@@ -117,7 +117,7 @@ CREATE TABLE tablename
 
 
 #### Enable connection control function
-* #####When the function is enable, the connection is disconnected when there is no transmission data.
+* When the function is enable, the connection is disconnected when there is no transmission data.
 * Please change the following line in "source/server.cpp"
 * second argument is 1: Enabled
 second argument is 0: Disabled
@@ -138,6 +138,6 @@ agent->setMode(FILO_RR); ////Default is FILO_RR
 
 
 ## Acknowledgments
-This work was partially supported by Hamamatsu Photonics K.K.
+This work was partially supported by JST PRESTO Grant Number JPMJPR15O5, JSPS KAKENHI JP26280028 and Hamamatsu Photonics K.K. 
 
 
