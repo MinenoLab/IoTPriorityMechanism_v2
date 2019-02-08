@@ -1,0 +1,6 @@
+#define TABLE_NAME "table_name"
+#define DB_SVNAME "222.222.222.222"
+#define DB_SVPORT "22222"
+#define DB_USERNAME "user_name"
+#define DB_NAME "db_name"
+#define DB_PASSWORD "password"
