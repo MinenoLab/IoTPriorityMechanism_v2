@@ -128,7 +128,7 @@ agent->setAgentOpt(FUNC_CONNECTION,1); //Default is enabled
 
 
 #### Specifying detailed transmission order control
-* #####You can change the transmission order control method for files with the same priority
+* You can change the transmission order control method for files with the same priority
 * FIFO_RR, FILO_RR, FIFO, FILO, SPTF can be specified as arguments
  * FIFO_RR is round-robin method giving priority to new files
 
