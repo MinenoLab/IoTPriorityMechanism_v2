@@ -1,18 +1,18 @@
-#Transmission order control communication method ver1.00
+# Transmission order control communication method ver1.00
 
-##Overview
-#####This is a communication program for IoT written in C ++, it is easy to upload a file by controTransmission order control communication methodlling the transmission order.
+## Overview
+##### This is a communication program for IoT written in C ++, it is easy to upload a file by controTransmission order control communication methodlling the transmission order.
 
-##Description
-#####In the IoT system which collects and uses information on remote places, it is necessary to select data to be uploaded according to the communication speed. Knowledge of several programs is necessary to create an upload mechanism suitable for the necessary conditions. This program can send files with various transmission order control with simple settings.
+## Description
+##### In the IoT system which collects and uses information on remote places, it is necessary to select data to be uploaded according to the communication speed. Knowledge of several programs is necessary to create an upload mechanism suitable for the necessary conditions. This program can send files with various transmission order control with simple settings.
 
-##Requirements
+## Requirements
 * Linux (Ubuntu 14.04 LTS)
 * C++11 or later
 * GCC 4.8 or later
 
-##Usage
-####Please run all the commands in `src/`
+## Usage
+#### Please run all the commands in `src/`
 
 #### 1. Configuration
 
@@ -136,6 +136,7 @@ agent->setMode(FILO_RR); ////Default is FILO_RR
 ```
 
 
-##Acknowledgments
+## Acknowledgments
 This work was partially supported by Hamamatsu Photonics K.K.
+
 
