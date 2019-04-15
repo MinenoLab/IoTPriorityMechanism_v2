@@ -73,8 +73,8 @@ $ make client //when you build the client
 #### 3. Run
 * When you execute the following command, the program will run, and a log file will be generated in `log/`
 ```
-$ make server //when you run the server
-$ make client //when you run the client
+$ ./start_priority_server.sh //when you run the server
+$ ./start_priority_client.sh //when you run the client
 ```
 
 
